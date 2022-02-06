@@ -5,4 +5,5 @@ Si, podrían hacerse más eficientes.
 2.¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?
 En muchos juegos de mundo abierto los enemigos están programados para aparecer y desaparecer en función de la distancia al jugador. En otros juegos como Dark Souls los enemigos y jefes siguen un patrón de ataque.
 ¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?
-Sí.
+Sí. Un programa de gestión de entradas de teatro que asiganaba un precio distinto en función de la edad y el estado de abonado. Era correcto pero podría haber sido más eficiente.
+
